@@ -1,5 +1,5 @@
-Now lets change the file in another branch.
+Now lets change the file in handle branch.
 
-Try to merge two branches.
+Try to merge two branches using commands .
 
 We will see what happens!!
