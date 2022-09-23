@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 Created new file locally in main branch
 
 Let's push this to remote.
+=======
+Now lets change the file in handle branch.
+
+Try to merge two branches using commands .
+>>>>>>> Handle1
 
 Will check how our repo is gonna behave.
