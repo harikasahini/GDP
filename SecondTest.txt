@@ -1,3 +1,5 @@
 Created new file locally
 
-Let's push this to remote.
+Let's try to create a conflict.
+
+Now edit line 3 with other text and try to push. We will witness a merge conflit
