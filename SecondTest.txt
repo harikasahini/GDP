@@ -1,3 +1,5 @@
-Created new file locally
+Now lets change the file in another branch.
 
-Let's push this to remote.
+Try to merge two branches.
+
+We will see what happens!!
